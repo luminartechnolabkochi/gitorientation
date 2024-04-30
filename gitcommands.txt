@@ -1,0 +1,4 @@
+git init > used for initializing git in pwd
+
+git add > local changes to SA
+
