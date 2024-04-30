@@ -7,3 +7,5 @@ git commit -m "your message"
 git remote add name "remote path"
 
 git branch list all available branches
+
+git remote -v
