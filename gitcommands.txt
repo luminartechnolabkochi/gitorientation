@@ -5,3 +5,5 @@ git add > local changes to SA
 git commit -m "your message"
 
 git remote add name "remote path"
+
+git branch list all available branches
